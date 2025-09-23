@@ -1,6 +1,6 @@
 import java.io.*;
 import java.net.*;
-// hari ini figma le asli
+// hari ini aku nak gantung diri
 public class Client {
     public static void main(String[] args) throws Exception {
         BufferedReader console = new BufferedReader(new InputStreamReader(System.in));
